@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `XAGUSD_3m.csv` (18,482 rows, `2026-07-07` -> `2026-09-02`, 1.77 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **2,004,287** `3m` rows (full `1m`: 5,955,593), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
+> **Sample on GitHub** · `XAGUSD_3m.csv` (18,480 rows, `2026-07-07` -> `2026-09-02`, 1.77 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **2,004,287** `3m` rows (full `1m`: 5,671,224), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Silver / US Dollar · Metals | Silver / US Dollar · Metals |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,482 | **2,004,287** |
+| 3m rows | 18,480 | **2,004,287** |
 | Size | 1.77 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-02-24` -> `2026-09-02` |
 | File | `XAGUSD_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`XAGUSD_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T18:57:00+00:00 | 60.563 | 60.563 | 60.451 | 60.481 | 2077 |
-| 2026-07-07T19:00:00+00:00 | 60.481 | 60.52 | 60.22 | 60.311 | 4748 |
 | 2026-07-07T19:03:00+00:00 | 60.311 | 60.36 | 60.243 | 60.258 | 3370 |
 | 2026-07-07T19:06:00+00:00 | 60.258 | 60.31 | 59.995 | 60.026 | 3848 |
 | 2026-07-07T19:09:00+00:00 | 60.026 | 60.136 | 59.891 | 59.917 | 3248 |
+| 2026-07-07T19:12:00+00:00 | 59.917 | 59.972 | 59.826 | 59.854 | 2973 |
+| 2026-07-07T19:15:00+00:00 | 59.854 | 59.859 | 59.66 | 59.763 | 2858 |
 
 **Last rows**
 
