@@ -1,6 +1,6 @@
 # XAGUSD 3m OHLCV Metals Historical Data — Free Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-2_006_578_rows-blue)](https://getdata.finance/datasets/xagusd) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/xagusd)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-2_007_872_rows-blue)](https://getdata.finance/datasets/xagusd) [![Updated](https://img.shields.io/badge/weekly_update-every_Saturday_8am_UTC-green)](https://getdata.finance) [![Full data on getdata.finance](https://img.shields.io/badge/download-getdata.finance-orange)](https://getdata.finance/datasets/xagusd)
 
 ### -> [**Download the full XAGUSD dataset on getdata.finance**](https://getdata.finance/datasets/xagusd)
 
@@ -23,11 +23,11 @@
 
 - **Ultra high-quality 3m OHLCV** for **Silver / US Dollar** (Metals)
 - **Clean CSV schema** — `datetime, open, high, low, close, volume` (no gaps in formatting)
-- **Free evaluation sample** on GitHub (`3m`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/xagusd) · **2,006,578** `3m` rows in the full archive
+- **Free evaluation sample** on GitHub (`3m`) · **11 timeframes** on [getdata.finance](https://getdata.finance/datasets/xagusd) · **2,007,872** `3m` rows in the full archive
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `XAGUSD_3m.csv` (59,296 rows, `2026-03-10` -> `2026-09-09`, 5.55 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **2,006,578** `3m` rows (full `1m`: 5,671,224), **11 timeframes**, `2009-02-24` -> `2026-09-09`.
+> **Sample on GitHub** · `XAGUSD_3m.csv` (59,991 rows, `2026-03-12` -> `2026-09-11`, 5.57 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **2,007,872** `3m` rows (full `1m`: 5,671,224), **11 timeframes**, `2009-02-24` -> `2026-09-11`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Silver / US Dollar · Metals | Silver / US Dollar · Metals |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 59,296 | **2,006,578** |
-| Size | 5.55 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
-| Period | `2026-03-10` -> `2026-09-09` | `2009-02-24` -> `2026-09-09` |
+| 3m rows | 59,991 | **2,007,872** |
+| Size | 5.57 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
+| Period | `2026-03-12` -> `2026-09-11` | `2009-02-24` -> `2026-09-11` |
 | File | `XAGUSD_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
 | Coverage report | — | [XAGUSD coverage](https://getdata.finance/coverage/xagusd) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,21 +75,21 @@ First and latest rows from the GitHub sample **`XAGUSD_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-03-10T18:33:00+00:00 | 89.449 | 89.476 | 89.025 | 89.075 | 7198 |
-| 2026-03-10T18:36:00+00:00 | 89.075 | 89.333 | 89.004 | 89.198 | 7533 |
-| 2026-03-10T18:39:00+00:00 | 89.198 | 89.315 | 88.879 | 89.071 | 5705 |
-| 2026-03-10T18:42:00+00:00 | 89.071 | 89.396 | 89.041 | 89.31 | 4284 |
-| 2026-03-10T18:45:00+00:00 | 89.31 | 89.585 | 89.232 | 89.546 | 5873 |
+| 2026-03-12T02:30:00+00:00 | 87.189 | 87.405 | 87.189 | 87.388 | 3039 |
+| 2026-03-12T02:33:00+00:00 | 87.388 | 87.388 | 87.11 | 87.194 | 2220 |
+| 2026-03-12T02:36:00+00:00 | 87.194 | 87.194 | 87.038 | 87.115 | 3506 |
+| 2026-03-12T02:39:00+00:00 | 87.115 | 87.141 | 86.696 | 86.745 | 3843 |
+| 2026-03-12T02:42:00+00:00 | 86.745 | 86.765 | 86.52 | 86.666 | 4247 |
 
 **Last rows**
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-09-09T01:48:00+00:00 | 65.996 | 65.997 | 65.905 | 65.922 | 1053 |
-| 2026-09-09T01:51:00+00:00 | 65.922 | 65.922 | 65.835 | 65.885 | 854 |
-| 2026-09-09T01:54:00+00:00 | 65.885 | 65.95 | 65.859 | 65.95 | 780 |
-| 2026-09-09T01:57:00+00:00 | 65.95 | 65.972 | 65.84 | 65.916 | 927 |
-| 2026-09-09T02:00:00+00:00 | 65.916 | 65.925 | 65.855 | 65.906 | 877 |
+| 2026-09-11T20:30:00+00:00 | 64.229 | 64.257 | 64.224 | 64.248 | 225 |
+| 2026-09-11T20:33:00+00:00 | 64.248 | 64.248 | 64.223 | 64.228 | 132 |
+| 2026-09-11T20:36:00+00:00 | 64.228 | 64.242 | 64.218 | 64.242 | 45 |
+| 2026-09-11T20:39:00+00:00 | 64.242 | 64.242 | 64.223 | 64.226 | 32 |
+| 2026-09-11T20:42:00+00:00 | 64.226 | 64.226 | 64.185 | 64.208 | 162 |
 
 ## Schema
 
@@ -154,7 +154,7 @@ print(pf.stats())
 
 ## Download full data
 
-The complete **XAGUSD** archive on **[getdata.finance](https://getdata.finance/datasets/xagusd)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **2,006,578** rows at `3m`, plus all other timeframes in the same ZIP.
+The complete **XAGUSD** archive on **[getdata.finance](https://getdata.finance/datasets/xagusd)** includes **11 OHLCV timeframes** (1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W) — **2,007,872** rows at `3m`, plus all other timeframes in the same ZIP.
 
 **[-> Get the full XAGUSD dataset on getdata.finance](https://getdata.finance/datasets/xagusd)**
 
